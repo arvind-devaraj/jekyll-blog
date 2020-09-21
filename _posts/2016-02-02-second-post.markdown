@@ -1,20 +1,25 @@
 ---
 layout: post
-title:  "second post"
+title:  "MongoDB - NoSQL database"
 date:   2016-02-02
 categories: technology computer news
 tags: holiday
 
 # Author.
-author: Airraya Group
+author: Arvind
 ---
 ![picture](https://placehold.it/250x150)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ultrices porta ultrices. Nulla gravida commodo aliquet. Quisque tincidunt enim quis odio vestibulum, et luctus ipsum lacinia. Cras malesuada sit amet erat vitae porttitor. Duis vitae mollis eros. Vestibulum eget tortor sodales, ullamcorper odio ac, tincidunt felis. Nunc interdum, mauris vitae ornare bibendum, risus libero aliquam ex, cursus feugiat mi libero in nulla. Nullam vel pulvinar ante. Vivamus vitae est aliquet, porttitor eros ut, facilisis erat. Sed malesuada nibh odio, at egestas libero commodo vitae. Integer laoreet lorem ac iaculis fermentum.
-Praesent sodales viverra purus non semper. Maecenas eu convallis neque. Integer velit nunc, facilisis vel nisi in, semper pretium lorem. <!-- more -->
-Sed orci est, pellentesque sit amet volutpat a, tristique in leo. Ut at euismod dolor, non laoreet mi. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+MongoDB is an open source, cross-platform, and the most popular NoSQL database program.
 
-Praesent sodales viverra purus non semper. Maecenas eu convallis neque. Integer velit nunc, facilisis vel nisi in, semper pretium lorem. Sed orci est, pellentesque sit amet volutpat a, tristique in leo. Ut at euismod dolor, non laoreet mi. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum metus lorem, dapibus ut purus ac, bibendum vulputate metus. Sed a lorem enim. Ut in pharetra dui.
+Database,collections and documents are terminology in mongodb.
 
-Etiam ultrices orci a risus fringilla, eu molestie elit finibus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam sed metus nulla. Nam vel aliquet enim. Pellentesque elementum, libero at vulputate cursus, velit turpis tempor neque, quis pellentesque turpis mi non est. Fusce tristique imperdiet fringilla. Integer tristique nibh imperdiet lacus volutpat, vitae tempor nulla efficitur. Nam ipsum ipsum, semper ut tellus eget, venenatis imperdiet augue. Nulla facilisi. Aenean non nisl eget justo efficitur bibendum. Quisque vel risus est. Cras id quam velit.
+Each database has collections which in turn has documents.
+The data stored is in the form of JSON style documents (rows).
+It is useful in building scalable websites with millions of users.
+Mongodb – Relational databases were not designed to cope with the scale and agility challenges that face modern applications.But they built to take advantage of the commodity storage and processing power available today. NoSQL is the term used to define the new database architecture that scales well in a distributed environment.
 
-Pellentesque quis hendrerit leo. Pellentesque tristique sem vitae pretium posuere. Vivamus euismod eu tellus nec porttitor. Sed vel est sem. Nullam pellentesque arcu in justo molestie maximus. Integer augue nibh, ultrices eget aliquam eget, rhoncus at est. Phasellus molestie, ante ut tempor dignissim, nisl nisl congue enim, id hendrerit dolor lorem ut ante.
+Mongodb supplies a javascript environment with BSON object storage(a binary adaption of JSON).So reading and writing data from the node is extremely efficent.It stores incoming records in memory,so it is ideal in high write situations.
+
+Since incoming records are stored in memory,inserrting data into mongo is non-blocking,making it ideal for logging operations and telemetry data.
+
+It also supports javascript functions inside queries,making it very powerful in read situations,including Mapreduce queries.

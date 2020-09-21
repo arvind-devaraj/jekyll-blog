@@ -1,20 +1,14 @@
 ---
 layout: post
-title:  "nineth post"
+title:  "Deep Learning"
 date:   2016-02-09
 category: technology
 tags: [journey, jekyll]
 
 # Author.
-author: Airraya Group
+author: Arvind
 ---
 ![picture](https://placehold.it/250x150)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ultrices porta ultrices. Nulla gravida commodo aliquet. Quisque tincidunt enim quis odio vestibulum, et luctus ipsum lacinia. Cras malesuada sit amet erat vitae porttitor. Duis vitae mollis eros. Vestibulum eget tortor sodales, ullamcorper odio ac, tincidunt felis. Nunc interdum, mauris vitae ornare bibendum, risus libero aliquam ex, cursus feugiat mi libero in nulla. Nullam vel pulvinar ante. Vivamus vitae est aliquet, porttitor eros ut, facilisis erat. Sed malesuada nibh odio, at egestas libero commodo vitae. Integer laoreet lorem ac iaculis fermentum.
-Praesent sodales viverra purus non semper. Maecenas eu convallis neque. Integer velit nunc, facilisis vel nisi in, semper pretium lorem. <!-- more -->
-Sed orci est, pellentesque sit amet volutpat a, tristique in leo. Ut at euismod dolor, non laoreet mi. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+ Deep Learning is a branch of machine learning which is about learning multiple levels of representation and abstraction that help to make sense of data such as images, sound, and text. It is completely based on artificial nueral network. And as neural network is going to mimic human brain so deep lerning is a kind of mimicring the human brain and the idea behind deep learning is to build learning algorithms that mimic brain. It includes learning in supervised ( like classification) and/or unsupervised (like pattern analysis) manners.Also, deep Learning addresses the problem of learning hierarchical representations with a single algorithm or perhaps with a few algorithms.
 
-Praesent sodales viverra purus non semper. Maecenas eu convallis neque. Integer velit nunc, facilisis vel nisi in, semper pretium lorem. Sed orci est, pellentesque sit amet volutpat a, tristique in leo. Ut at euismod dolor, non laoreet mi. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum metus lorem, dapibus ut purus ac, bibendum vulputate metus. Sed a lorem enim. Ut in pharetra dui.
-
-Etiam ultrices orci a risus fringilla, eu molestie elit finibus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam sed metus nulla. Nam vel aliquet enim. Pellentesque elementum, libero at vulputate cursus, velit turpis tempor neque, quis pellentesque turpis mi non est. Fusce tristique imperdiet fringilla. Integer tristique nibh imperdiet lacus volutpat, vitae tempor nulla efficitur. Nam ipsum ipsum, semper ut tellus eget, venenatis imperdiet augue. Nulla facilisi. Aenean non nisl eget justo efficitur bibendum. Quisque vel risus est. Cras id quam velit.
-
-Pellentesque quis hendrerit leo. Pellentesque tristique sem vitae pretium posuere. Vivamus euismod eu tellus nec porttitor. Sed vel est sem. Nullam pellentesque arcu in justo molestie maximus. Integer augue nibh, ultrices eget aliquam eget, rhoncus at est. Phasellus molestie, ante ut tempor dignissim, nisl nisl congue enim, id hendrerit dolor lorem ut ante.
+Deep learning is implemented with the help of Neural netwoks and the idea or motivation behind the Neural networks is nothing, just biological neuron. Basically, deep learning works with the help of deep network(neural networks with multiple hidden layers) in which each layer of nodes train on a distinct set of features based on the previous layer’s output. It use some form of gradient descent for training via backpropagation(backward propagation of errors). Complexity of the features, which the node can recognize, increases as per the advancement increase into the neural net.

@@ -1,20 +1,39 @@
 ---
 layout: post
-title:  "Seventh post"
+title:  "Importance of soft skills"
 date:   2016-02-07
 category: technology
 tags: [octopress, jekyll]
 
 # Author.
-author: Airraya Group
+author: Arvind
 ---
 ![picture](https://placehold.it/250x150)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ultrices porta ultrices. Nulla gravida commodo aliquet. Quisque tincidunt enim quis odio vestibulum, et luctus ipsum lacinia. Cras malesuada sit amet erat vitae porttitor. Duis vitae mollis eros. Vestibulum eget tortor sodales, ullamcorper odio ac, tincidunt felis. Nunc interdum, mauris vitae ornare bibendum, risus libero aliquam ex, cursus feugiat mi libero in nulla. Nullam vel pulvinar ante. Vivamus vitae est aliquet, porttitor eros ut, facilisis erat. Sed malesuada nibh odio, at egestas libero commodo vitae. Integer laoreet lorem ac iaculis fermentum.
-Praesent sodales viverra purus non semper. Maecenas eu convallis neque. Integer velit nunc, facilisis vel nisi in, semper pretium lorem. <!-- more -->
-Sed orci est, pellentesque sit amet volutpat a, tristique in leo. Ut at euismod dolor, non laoreet mi. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+ 
+ In the present scenario it takes more than just technical grades and perseverance to cherry pick your job profile. This is especially true for engineering graduates as is highlighted in the study conducted by Aspiring minds, a leading employability evaluation and certification company.
 
-Praesent sodales viverra purus non semper. Maecenas eu convallis neque. Integer velit nunc, facilisis vel nisi in, semper pretium lorem. Sed orci est, pellentesque sit amet volutpat a, tristique in leo. Ut at euismod dolor, non laoreet mi. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum metus lorem, dapibus ut purus ac, bibendum vulputate metus. Sed a lorem enim. Ut in pharetra dui.
+The report brings to light the dismal picture of employability amongst our job aspirants. As per the study which surveyed 150000 engineering students who graduated in 2015 from over 650 colleges across the country, 80% of the students are unemployable.
 
-Etiam ultrices orci a risus fringilla, eu molestie elit finibus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam sed metus nulla. Nam vel aliquet enim. Pellentesque elementum, libero at vulputate cursus, velit turpis tempor neque, quis pellentesque turpis mi non est. Fusce tristique imperdiet fringilla. Integer tristique nibh imperdiet lacus volutpat, vitae tempor nulla efficitur. Nam ipsum ipsum, semper ut tellus eget, venenatis imperdiet augue. Nulla facilisi. Aenean non nisl eget justo efficitur bibendum. Quisque vel risus est. Cras id quam velit.
+The education system does very little to address this pressing issue. Also organisations around the world have found the need to retain smart and productive talent base to retain their leadership in the dynamic and complex business environment. The obvious response from establishments has been to lay emphasis on vital communication and interpersonal skills in job contenders rather than recruiting and training employees in the said area. The onus then shifts to the job seeker himself.
 
-Pellentesque quis hendrerit leo. Pellentesque tristique sem vitae pretium posuere. Vivamus euismod eu tellus nec porttitor. Sed vel est sem. Nullam pellentesque arcu in justo molestie maximus. Integer augue nibh, ultrices eget aliquam eget, rhoncus at est. Phasellus molestie, ante ut tempor dignissim, nisl nisl congue enim, id hendrerit dolor lorem ut ante.
+The findings of the report also reveal that focussing on soft skills proficiency combined with academic score is indeed worth its weight in gold in the current conditions.
+
+A key component for workplace success is to collaborate with a wide set of co- workers and diverse clients. Also one must hone language skills to communicate succinctly. Additionally one must strengthen the link of positive self- concept which is an integral contributor to accomplishments.
+
+In many cases complementing problem solving skills with good mix of attitude, motivation, self- control and time management skills enables individuals to present themselves better and progress up the corporate ladder.
+
+Soft skills improvement requires a different matrix and mind-set altogether. One can take up training courses tailored to specific job requirements. A plethora of options exist both in the online and offline space. Individuals keen to build on their soft skills must also be open to new ideas and new approaches to refine themselves and effect a change in their personalities.
+
+Soft skills are undeniably the major master keys to create a worthwhile future. So be the captain of your ship, chart your course, take methodical steps and explore incredible possibilities.
+
+10 important Soft Skills that are needed in industry or academia
+People skills
+Networking
+Build a brand
+Long-term career perspective
+Value non-technical courses
+Understand data gathering and analysis
+Presentation skills
+Separate personal and professional lives
+Work/life balance
+Prioritizing and executing
